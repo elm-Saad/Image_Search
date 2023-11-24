@@ -36,6 +36,7 @@ Follow these steps to run the project locally:
 
   ```bash
   git clone https://github.com/elm-Saad/Image_Search.git
+  ```
 
 2. Install dependencies:
 
